@@ -298,4 +298,5 @@ if __name__ == '__main__':
 
     end_total = time.time()
     total_time = end_total - start_total
+
     print(f"cost time: {total_time:.2f} s")
