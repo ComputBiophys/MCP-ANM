@@ -88,7 +88,7 @@ Use MCP Predictor to create a `.csv` file for your protein.
 
 This code is for academic research. Please cite the relevant publication when using it.
 
-Zhongjie Han, Wang Lei, Chen Song. Improved Anisotropic Network Models for Membrane Protein Dynamics and Mechanosensitive Ion Channels. DOI: [10.1101/2025.05.22.654704](https://doi.org/10.1101/2025.05.22.654704)
+Zhongjie Han, Wang Lei, Chen Song. Improved Anisotropic Network Models for Membrane Protein Dynamics and Mechanosensitive Ion Channels. DOI: https://doi.org/10.1103/xc5f-xr7n.
 
 ## Contact
 
